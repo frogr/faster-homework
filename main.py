@@ -1,4 +1,8 @@
-from faster_homework import config
+# MACOS (tested via PyCharm)
+#  from faster_homework import config
+
+# WINDOWS (tested via PyCharm)
+import config
 
 githubURL = input("Enter the URL to the base repo: ")
 
