@@ -16,3 +16,5 @@ print("\ncopy the entire block of text below and paste it into your terminal at 
 
 for i, n in enumerate(config.nameList):
         print("git fetch origin pull/"+idList[i]+"/head:"+n)
+
+print("\nfor example: use `git checkout %s` to access the students code" % config.name1)
